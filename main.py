@@ -16,4 +16,4 @@ quiz_ui=QuizInterface(quiz)
 # while quiz.question_left_to_answer():
 #     quiz.next_question()
 
-print(f"your score is {quiz.self.score}/10") 
+# print(f"your score is {quiz.self.score}/10")
